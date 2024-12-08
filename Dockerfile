@@ -1,1 +1,1 @@
-FROM supertc/nodealpjy:latest
+FROM supertc/nodealp_jy:latest
